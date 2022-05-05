@@ -1,11 +1,11 @@
 import React from "react";
-import "./index.css";
+import styles from "./index.module.css";
 
 export default function SideMenu() {
   return (
-    <div className="container">
-      <div className="logoContainer">Not ToDo</div>
-      <div className="profilepic"></div>
+    <div className={styles.container}>
+      <div className={styles.logoContainer}>Not ToDo</div>
+      <div className={styles.profilepic}></div>
     </div>
   );
 }

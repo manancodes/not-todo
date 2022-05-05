@@ -5,14 +5,14 @@
   border-radius: 16px;
   background-color: #333;
   color: white;
-  padding: 20px;
+  padding: 16px;
 }
 .logoContainer {
-  font-size: 40px;
+  font-size: 30px;
 }
 .profilepic {
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   background-color: grey;
   border-radius: 10px;
 }

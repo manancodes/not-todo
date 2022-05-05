@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <p className={styles.GreetingText}>Hello Manan!</p>
       <p className={styles.TasksText}>You've got 3 Tasks Today</p>
-      <ProjectCards />
+      {/* <ProjectCards /> */}
       <TaskBoard />
     </div>
   );
