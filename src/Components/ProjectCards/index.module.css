@@ -1,0 +1,27 @@
+.container {
+  margin-top: 12px;
+  align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+.container::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+.card {
+  background-color: #777;
+  margin: 10px;
+  color: white;
+  padding: 20px;
+  border-radius: 14px;
+  height: 80px;
+  max-width: 24%;
+  border: 0;
+  flex-basis: 33.333%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
