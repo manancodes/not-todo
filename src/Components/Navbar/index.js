@@ -4,7 +4,7 @@ import styles from "./index.module.css";
 export default function SideMenu() {
   return (
     <div className={styles.container}>
-      <div className={styles.logoContainer}>Not ToDo</div>
+      <p className={styles.logo}>Not ToDo.</p>
       <div className={styles.profilepic}></div>
     </div>
   );

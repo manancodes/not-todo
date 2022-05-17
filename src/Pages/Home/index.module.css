@@ -1,11 +1,11 @@
 .GreetingText {
   color: grey;
-  font-size: 30px;
+  font-size: 24px;
   margin: 0;
   margin-top: 30px;
 }
 .TasksText {
-  font-size: 40px;
+  font-size: 34px;
   margin: 0;
   font-weight: 700;
 }

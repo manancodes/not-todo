@@ -7,8 +7,12 @@
   color: white;
   padding: 16px;
 }
-.logoContainer {
-  font-size: 30px;
+.logo {
+  font-size: 40px;
+  font-weight: 800;
+  font-family: "Baloo Bhaijaan 2", cursive;
+  margin-top: -34px;
+  margin-bottom: -40px;
 }
 .profilepic {
   height: 40px;
