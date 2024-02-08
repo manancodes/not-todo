@@ -6,24 +6,24 @@ import Card from "./Card";
 
 const itemsFromBackend = {
   Backlog: [
-    { id: "adfad", content: "First Task" },
-    { id: "gdsdas", content: "Second Task" },
-    { id: "vjnfss", content: "Third Task" },
+    { id: "adfad", content: "Deploy the app" },
+    { id: "gdsdas", content: "Make the code efficient" },
+    { id: "vjnfss", content: "Merge the branches" },
   ],
   InProgress: [
-    { id: "fkanf", content: "First Task" },
-    { id: "nadfj", content: "Second Task" },
-    { id: "asod", content: "Third Task" },
+    { id: "fkanf", content: "Fix the UI bug" },
+    { id: "nadfj", content: "Review with client" },
+    { id: "asod", content: "Add dark mode" },
   ],
   Done: [
-    { id: "jaskkk", content: "First Task" },
-    { id: "ooanjksf", content: "Second Task" },
-    { id: "asdjnas", content: "Third Task" },
+    { id: "jaskkk", content: "Setup developer account" },
+    { id: "ooanjksf", content: "Beta testing" },
+    { id: "asdjnas", content: "Add bluetooth module" },
   ],
   "Parking Lot": [
-    { id: "jhghu", content: "First Task" },
-    { id: "ouihgjb", content: "Second Task" },
-    { id: "erty", content: "Third Task" },
+    { id: "jhghu", content: "Personalisation" },
+    { id: "ouihgjb", content: "Community" },
+    { id: "erty", content: "Virtual Assistant" },
   ],
 };
 const Data = {
